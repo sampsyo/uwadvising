@@ -23,7 +23,7 @@ Best  of  luck  in  finding  an  advising relationship  that  can  help  you  re
 beyond  your  own  expectations  --  we know  you  can,  and  we're  ready  to
 help!
 
-- David Notkin
+--- David Notkin  
 CSE Dept. Chair '01-'06
 
 
@@ -304,14 +304,14 @@ makes  in  their  own  time.    Acquiring the skills necessary  to  make  this  
 
 ## Involved in the making
 
-Seth Bridges (chair) seth@cs.washington.edu
-Shani Jayantcjayant@cs.washington.edu
-Mausammausam@cs.washington.edu
-Kasia Wilamowskakasiaw@cs.washington.edu
-Scott Saponasssaponas@cs.washington.edu
-Brian Van Essenvanessen@cs.washington.edu
-Sarah Schwarmsarahs@cs.washington.edu
-Julie Letchnerletchner@cs.washington.edu
-Mira Dontchevamirad@cs.washington.edu
-Aaron Shonaaron@cs.washington.edu
-The CSE Faculty
+* Seth Bridges (chair) seth@cs.washington.edu
+* Shani Jayant cjayant@cs.washington.edu
+* Mausam mausam@cs.washington.edu
+* Kasia Wilamowska kasiaw@cs.washington.edu
+* Scott Saponas ssaponas@cs.washington.edu
+* Brian Van Essen vanessen@cs.washington.edu
+* Sarah Schwarm sarahs@cs.washington.edu
+* Julie Letchner letchner@cs.washington.edu
+* Mira Dontcheva mirad@cs.washington.edu
+* Aaron Shon aaron@cs.washington.edu
+* The CSE Faculty
