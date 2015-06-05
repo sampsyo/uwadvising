@@ -17,8 +17,8 @@ this critically valuable and important process.
 
 My personal advising and mentoring philosophy is drawn from my own
 Ph.D. advisor, Nico Habermann, who said to focus on graduating terrific
-students, which guarantees terrific research -- focusing on terrific
-re-search may or may not lead to the graduating of terrific students.
+students, which guarantees terrific research---focusing on terrific
+research may or may not lead to the graduating of terrific students.
 
 The material in this document contains wonderful advice for students, and
 I recommend you read it carefully and keep it around to refer to now
@@ -42,7 +42,7 @@ your advisor increases your chances of being successful and of enjoying
 graduate school.
 
 As a graduate student, you will learn more than you ever thought you could
-about computer science, research, education, and hopefully, relation-ships. You
+about computer science, research, education, and hopefully, relationships. You
 will meet many new people and form personal bonds that will last a lifetime.
 Undeniably, with regards to your success in graduate school, none of the
 relationships you form in graduate school will affect your career more than the
@@ -53,7 +53,7 @@ creating a trust that centers around the meeting of expectations that
 
 each one has for the other. Therefore, it is absolutely essential that you understand what you can expect from your advisor, and what he or she can expect from you.
 
-Above all, it is important to re-member that the biggest driving factor behind
+Above all, it is important to remember that the biggest driving factor behind
 your success in graduate school is you. It is your responsibility to take
 charge of your own career and its direction. Faculty members, and your advisor
 specifically, while supervising your progress, cannot help you advance without
@@ -68,7 +68,7 @@ faculty, this handout is the result of that session.
 
 ### What you can expect from your advisor
 
-The first thing you should under-stand about advisors is that each is unique.
+The first thing you should understand about advisors is that each is unique.
 Each advisor has his or her own ideas about everything from quals, to
 publishing, to making pizza. You cannot expect your advisor to be exactly like
 any other, just as you are not like any other student.
@@ -123,10 +123,10 @@ We always hope that things
 go well. Sometimes, they don't. Here's what to do.
 
 1. **Don't wait. Deal with it NOW.** Problems in advising relationships,
-just as in any other relationship, can-not be resolved without good communication.
+just as in any other relationship, cannot be resolved without good communication.
 2. **Poll your officemates, mentors, and groupmates.**
 Chances are, your older officemates have been there. Leverage that experience when you can.
-3. **Talk to the Grad. Program Coordi-nator, David Notkin (notkin@cs)**
+3. **Talk to the Grad. Program Coordinator, David Notkin (notkin@cs)**
 David is this year's GPC and he is more than happy to lend his expertise
 to helping resolve your problem.
 4. **Talk to Lindsay Michimoto (lindsaym@cs)**
@@ -150,7 +150,7 @@ He also happens to be a nice guy.
 
 In an ideal world, every student's advisor would be his or her mentor.
 However, this may not always be possible or beneficial. In the case that your
-re-search advisor is not mentoring you well, it would be beneficial for you to
+research advisor is not mentoring you well, it would be beneficial for you to
 discuss this with your advisor, or to seek advice from another faculty member.
 
 Networking: As is often true elsewhere, it's not what you know, it's who you
@@ -184,7 +184,7 @@ and mentoring time for students. Expect your advisor to:
 Logistics: Program milestones and funding can be sources of confusion for
 younger students. Expect your advisor to:
 
-* Understand the program mile-stones that you must pass.
+* Understand the program milestones that you must pass.
 * Make your funding status very clear
 * Help you find other sources of funding such as TA-ships or fellowships should
   an RA-ship not be available
@@ -196,20 +196,20 @@ What's the tone of your relationship? Our department culture fosters the idea
 that students and faculty are colleagues, an idea most students prefer.
 However, reality dictates that faculty are "colleagues with authority." It is
 important to maintain balance in your advising relationship.* Does your advisor
-treat you as a colleague rather than an em-ployee?
+treat you as a colleague rather than an employee?
 
 * Does your advisor help you make decisions that are in your best interest?
 * Does your research involve you implementing your advisors ideas or more joint
   brainstorming and collaboration?
-* Does your advisor respect your personal non-work time?
+* Does your advisor respect your personal nonwork time?
 
 
 ### What do you like about your advisor?
 
-The following are direct re-sponses from a survey of
+The following are direct responses from a survey of
 graduate students.
 
-* "My advisor genuinely cares about his students - both professionally and
+* "My advisor genuinely cares about his students---both professionally and
   personally."
 * "He is pleasant and funny and we make jokes frequently."
 * "...great at discussing research and publications."
@@ -238,11 +238,11 @@ success. Your advisor expects you to:
 * Listen to what he/she says
 * Respect his/her ideas
 * Accept constructive criticism
-* Provide honest progress re-porting
+* Provide honest progress reporting
 * Respond promptly to communication
 
 Performance: Each advisor has different expectations about the performance of
-his or her stu-dents. Keep in mind the following expectations your advisor has
+his or her students. Keep in mind the following expectations your advisor has
 for you so things run smoothly.
 
 * Show initiative
@@ -254,7 +254,7 @@ for you so things run smoothly.
 Meetings: Just as you can expect your advisor to meet with you face-to-face,
 you'll find that faculty also have expectations regarding meetings.
 
-* Prepare appropriately, other-wise reschedule
+* Prepare appropriately, otherwise reschedule
 * Show up on time
 * Attend all group meetings and relevant 590's
 * Meet on advisor's request, with reasonable notice
@@ -264,20 +264,20 @@ researchers as well as well rounded potential faculty members. You're expected
 to:
 
 * Own your own career
-* Actively consider future re-search directions
+* Actively consider future research directions
 * Be willing to mentor younger students (grads and ugrads)
 * Write paper reviews
 * Attend conferences/workshops
-* Stay updated on relevant re-search
+* Stay updated on relevant research
 
 Grunt Work: Let's face it. This place does not run itself. As a graduate
 student, faculty expect you to:
 
 * Maintain labs, software, and hardware for your group
-* Document your research, de-signs, code, and meetings
+* Document your research, designs, code, and meetings
 * Be a TA, especially for niche subjects
 
-Personal issues: We are all hu-man. We all know that school
+Personal issues: We are all human. We all know that school
 is not the only thing in our life. However, faculty have expectations regarding your priorities and vacation time.
 
 * Make CSE your number one priority, especially regarding consulting, outside
@@ -285,7 +285,7 @@ is not the only thing in our life. However, faculty have expectations regarding 
 * Take vacation, but schedule it appropriately
 * Stay interested in your work
 * Understand that faculty members are juggling a lot: teaching, research,
-  advising, com-mittees, and their families, too!
+  advising, committees, and their families, too!
 
 ### What your advisor can expect from you: Top five...
 
@@ -300,7 +300,7 @@ is not the only thing in our life. However, faculty have expectations regarding 
 From consumer to producer Graduate school is your time to make the transition
 from knowledge consumer to knowledge producer. It is a difficult transition
 that everyone makes in their own time. Acquiring the skills necessary to make
-this transition is something that can only hap-pen through interaction with
+this transition is something that can only happen through interaction with
 experienced researchers, like your advisors.
 
 ## Involved in the making
