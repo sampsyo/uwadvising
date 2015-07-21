@@ -114,27 +114,6 @@ your advisor to guide you to:
 * Work on service committees
 * Mentor younger students
 
-### If there's a problem...
-
-We always hope that things
-go well. Sometimes, they don't. Here's what to do.
-
-1. **Don't wait. Deal with it NOW.** Problems in advising relationships,
-just as in any other relationship, cannot be resolved without good communication.
-2. **Poll your officemates, mentors, and groupmates.**
-Chances are, your older officemates have been there. Leverage that experience when you can.
-3. **Talk to the Grad. Program Coordinator, David Notkin (notkin@cs)**
-David is this year's GPC and he is more than happy to lend his expertise
-to helping resolve your problem.
-4. **Talk to Lindsay Michimoto (lindsaym@cs)**
-Lindsay, as we all know, is one of the most valuable resources we have as
-graduate students. If you are unable to resolve a particular conflict, let
-Lindsay weigh in on your problem.
-5. **Talk to Hank Levy, Dept. Chair**
-A faculty member for many years,
-and Hank Levy has experience with all facets of the advising experience.
-He also happens to be a nice guy.
-
 ### What you can expect from your advisor: Top five...
 
 1. Clear communication
@@ -313,3 +292,31 @@ experienced researchers, like your advisors.
 * Mira Dontcheva mirad@cs.washington.edu
 * Aaron Shon aaron@cs.washington.edu
 * The CSE Faculty
+
+
+
+
+
+
+### Problems
+
+We always hope that things
+go well. Sometimes, they don't. Here's what to do.
+
+1. **Don't wait. Deal with it NOW.** Problems in advising relationships,
+just as in any other relationship, cannot be resolved without good communication.
+2. **Poll your officemates, mentors, and groupmates.**
+Chances are, your older officemates have been there. Leverage that experience when you can.
+3. **Talk to you grad student mentor.**
+3. **Talk to the Grad. Program Coordinator, David Notkin (notkin@cs)**
+David is this year's GPC and he is more than happy to lend his expertise
+to helping resolve your problem.
+4. **Talk to Lindsay Michimoto (lindsaym@cs)**
+Lindsay, as we all know, is one of the most valuable resources we have as
+graduate students. If you are unable to resolve a particular conflict, let
+Lindsay weigh in on your problem.
+5. **Talk to Hank Levy, Dept. Chair**
+A faculty member for many years,
+and Hank Levy has experience with all facets of the advising experience.
+He also happens to be a nice guy.
+
