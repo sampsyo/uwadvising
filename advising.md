@@ -50,7 +50,6 @@ one you form with your advisor.
 
 An advisor and student craft their relationship over the course of many years,
 creating a trust that centers around the meeting of expectations that
-
 each one has for the other. Therefore, it is absolutely essential that you understand what you can expect from your advisor, and what he or she can expect from you.
 
 Above all, it is important to remember that the biggest driving factor behind
