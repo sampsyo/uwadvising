@@ -59,11 +59,9 @@ specifically, while supervising your progress, cannot help you advance without
 you giving 100% effort.
 
 
-## Advising Expectations
+## The Advisor/Advisee Relationship
 
-At the 2005 faculty retreat, a committee of students held a session on
-communication and expectations in advising relationships. Endorsed by the
-faculty, this handout is the result of that session.
+
 
 ### What you can expect from your advisor
 
