@@ -61,7 +61,7 @@ you giving 100% effort.
 
 ## The Advisor/Advisee Relationship
 
-
+(Merge "Mentoring" and "What you can expect from your advisor" sections here...)
 
 ### What you can expect from your advisor
 
@@ -270,6 +270,10 @@ is not the only thing in our life. However, faculty have expectations regarding 
 3. Honest progress reports
 4. Initiative
 5. High quality work
+
+## Advising During Your First Two Years at UW
+
+(Put content about temp advising here)
 
 ### A big transition
 
