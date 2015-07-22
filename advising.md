@@ -271,9 +271,17 @@ is not the only thing in our life. However, faculty have expectations regarding 
 4. Initiative
 5. High quality work
 
+
+
+
 ## Advising During Your First Two Years at UW
 
 (Put content about temp advising here)
+(How to find a permanent advisor)
+(--If things are going well, you can stay with your temp advisor as your permanent advisor)
+(--Could be joint advised)
+
+
 
 ### A big transition
 
@@ -283,29 +291,32 @@ that everyone makes in their own time. Acquiring the skills necessary to make
 this transition is something that can only happen through interaction with
 experienced researchers, like your advisors.
 
-## Involved in the making
 
-* Seth Bridges (chair) seth@cs.washington.edu
-* Shani Jayant cjayant@cs.washington.edu
-* Mausam mausam@cs.washington.edu
-* Kasia Wilamowska kasiaw@cs.washington.edu
-* Scott Saponas ssaponas@cs.washington.edu
-* Brian Van Essen vanessen@cs.washington.edu
-* Sarah Schwarm sarahs@cs.washington.edu
-* Julie Letchner letchner@cs.washington.edu
-* Mira Dontcheva mirad@cs.washington.edu
-* Aaron Shon aaron@cs.washington.edu
-* The CSE Faculty
+
+## Problem FAQ
 
 
 
+1. I want to work with Prof. X, how do I ask them?
+2. I am not happy with my current research project, what should I do?
+3. I'm not sure what research area I am interested in, how can I find a research area?
+4. I am worried my advisor is not happy with my research progress.
+5. It seems like everyone else is making a lot more progress than me.
+6. Unavailable advisor
+7. Too much (course work/TA'ing), is limiting my ability to do research
+8. My advisor said he doesn't want to work with me.
+9. I no longer want to work with my current advisor.
+10. I don't get along with my current advisor.
+11. My advisor is very demanding, and I think he expects more of me than I can provide.
 
 
 
-### Problems
 
-We always hope that things
-go well. Sometimes, they don't. Here's what to do.
+
+
+
+
+We always hope that things go well. Sometimes, they don't. Here's what to do.
 
 1. **Don't wait. Deal with it NOW.** Problems in advising relationships,
 just as in any other relationship, cannot be resolved without good communication.
