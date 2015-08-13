@@ -298,6 +298,9 @@ experienced researchers, like your advisors.
 
 
 1. I want to work with Prof. X, how do I ask them?
+
+A simple introduction email can go a long way! Reach out and ask to set up a meeting with Professor X. Before going to the meeting, make sure you have something interesting to say. That is, you should have read several of the recent papers written by this professor so you know what he/she is working on. 
+
 2. I am not happy with my current research project, what should I do?
 3. I'm not sure what research area I am interested in, how can I find a research area?
 4. I am worried my advisor is not happy with my research progress.
