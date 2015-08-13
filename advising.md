@@ -306,13 +306,37 @@ A simple introduction email can go a long way! Reach out and ask to set up a mee
 Have you talked to your advisor about this yet? Having open and honest communication with your advisor is critical to your success. If the project you are working on isn't interesting to you, then talk to your advisor about how you can either shift the focus of the project or come up with a different project to fit your interests. That being said, grad school is tough, and research is not often going to be easy. Make sure you aren't quitting a project because it is difficult. Working through difficulties in research is a skill all Ph.D. students are expected to learn. 
 
 3. I'm not sure what research area I am interested in, how can I find a research area?
+
+You have several resources at your disposal. First, take seminars in areas that you may be interested in. Seminars often provide a broad overview of the current state of the art in different subfields through paper readings. Second, take a look at the websites for different research groups in the department and speak to current grad students in the groups that seem most appealing to you. Finally, talk with your temporary advisor. They are often a wealth of information and can help point you in the right direction. 
+
 4. I am worried my advisor is not happy with my research progress.
+
+Being repetitive, have you talked to your advisor about this yet? You should be having regular conversations about your progress and your advisor should express their expectations to you clearly. If you aren't sure, then talk to them!
+
 5. It seems like everyone else is making a lot more progress than me.
-6. Unavailable advisor
-7. Too much (course work/TA'ing), is limiting my ability to do research
+
+This is a very common sentiment in newer grad students, although it is often not well founded. Again, grad school is tough. Things will not always go as planned, and often, projects will take a lot of work to make only moderate progress. This is normal. Don't compare yourself to other grad students. Instead, make sure that your advisor is satisfied with the progress you are making by discussing it with them. 
+
+6. My advisor is never available. How can I get them to make time for me?
+
+
+
+7. I feel like I spend so much time doing coursework or TA'ing that I don't have anytime for research. What should I do?
+
+
+
 8. My advisor said he doesn't want to work with me.
+
+
+
 9. I no longer want to work with my current advisor.
+
+
+
 10. I don't get along with my current advisor.
+
+
+
 11. My advisor is very demanding, and I think he expects more of me than I can provide.
 
 
