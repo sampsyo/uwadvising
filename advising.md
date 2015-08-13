@@ -293,7 +293,20 @@ experienced researchers, like your advisors.
 
 
 
-## Problem FAQ
+## Dealing with Potential Problems
+
+We always hope that things go well. Sometimes, they don't. Here's what to do.
+
+1. **Don't wait. Deal with it NOW.** Problems in advising relationships, just as in any other relationship, cannot be resolved without good communication. Almost all issues can be solved by simply having an open and honest conversation with your advisor. The earlier you talk to your advisor, the easier it is to resolve most problems.
+2. **Poll your officemates, mentors, and groupmates.**
+Chances are, your older officemates have been there. Leverage that experience when you can.
+3. **Talk to your grad student mentor.** Upon entering the Ph.D. program, you were assigned a student mentor. This mentor has likely experienced most of the same issues you may experience and can therefore provide you with useful advice.  
+3. **Talk to the Grad. Program Coordinator, Anna Karlin (karlin@cs)**
+Anna is a wealth of information and is more than happy to lend her expertise to helping resolve your problem.
+4. **Talk to Elise (elised@cs)**
+Elise, as we all know, is one of the most valuable resources we have as graduate students. If you are unable to resolve a particular conflict, let Elise weigh in on your problem.
+5. **Talk to Hank Levy, Dept. Chair**
+Having been a faculty member for many years, Hank has experience with all facets of the advising experience. He also happens to be a nice guy.
 
 
 
@@ -339,29 +352,4 @@ This is a very common sentiment in newer grad students, although it is often not
 
 11. My advisor is very demanding, and I think he expects more of me than I can provide.
 
-
-
-
-
-
-
-
-We always hope that things go well. Sometimes, they don't. Here's what to do.
-
-1. **Don't wait. Deal with it NOW.** Problems in advising relationships,
-just as in any other relationship, cannot be resolved without good communication.
-2. **Poll your officemates, mentors, and groupmates.**
-Chances are, your older officemates have been there. Leverage that experience when you can.
-3. **Talk to you grad student mentor.**
-3. **Talk to the Grad. Program Coordinator, David Notkin (notkin@cs)**
-David is this year's GPC and he is more than happy to lend his expertise
-to helping resolve your problem.
-4. **Talk to Lindsay Michimoto (lindsaym@cs)**
-Lindsay, as we all know, is one of the most valuable resources we have as
-graduate students. If you are unable to resolve a particular conflict, let
-Lindsay weigh in on your problem.
-5. **Talk to Hank Levy, Dept. Chair**
-A faculty member for many years,
-and Hank Levy has experience with all facets of the advising experience.
-He also happens to be a nice guy.
 
