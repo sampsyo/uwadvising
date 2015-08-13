@@ -302,6 +302,9 @@ experienced researchers, like your advisors.
 A simple introduction email can go a long way! Reach out and ask to set up a meeting with Professor X. Before going to the meeting, make sure you have something interesting to say. That is, you should have read several of the recent papers written by this professor so you know what he/she is working on. 
 
 2. I am not happy with my current research project, what should I do?
+
+Have you talked to your advisor about this yet? Having open and honest communication with your advisor is critical to your success. If the project you are working on isn't interesting to you, then talk to your advisor about how you can either shift the focus of the project or come up with a different project to fit your interests. That being said, grad school is tough, and research is not often going to be easy. Make sure you aren't quitting a project because it is difficult. Working through difficulties in research is a skill all Ph.D. students are expected to learn. 
+
 3. I'm not sure what research area I am interested in, how can I find a research area?
 4. I am worried my advisor is not happy with my research progress.
 5. It seems like everyone else is making a lot more progress than me.
