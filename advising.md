@@ -298,17 +298,13 @@ experienced researchers, like your advisors.
 We always hope that things go well. Sometimes, they don't. Here's what to do.
 
 1. **Don't wait. Deal with it NOW.** Problems in advising relationships, just as in any other relationship, cannot be resolved without good communication. Almost all issues can be solved by simply having an open and honest conversation with your advisor. The earlier you talk to your advisor, the easier it is to resolve most problems.
-2. **Poll your officemates, mentors, and groupmates.**
-Chances are, your older officemates have been there. Leverage that experience when you can.
+2. **Poll your officemates, mentors, and groupmates.** Chances are, your older officemates have been there. Leverage that experience when you can.
 3. **Talk to your grad student mentor.** Upon entering the Ph.D. program, you were assigned a student mentor. This mentor has likely experienced most of the same issues you may experience and can therefore provide you with useful advice.  
-3. **Talk to the Grad. Program Coordinator, Anna Karlin (karlin@cs)**
-Anna is a wealth of information and is more than happy to lend her expertise to helping resolve your problem.
-4. **Talk to Elise (elised@cs)**
-Elise, as we all know, is one of the most valuable resources we have as graduate students. If you are unable to resolve a particular conflict, let Elise weigh in on your problem.
-5. **Talk to Hank Levy, Dept. Chair**
-Having been a faculty member for many years, Hank has experience with all facets of the advising experience. He also happens to be a nice guy.
+3. **Talk to the Grad. Program Coordinator, Anna Karlin (karlin@cs)** Anna is a wealth of information and is more than happy to lend her expertise to helping resolve your problem.
+4. **Talk to Elise (elised@cs)** Elise, as we all know, is one of the most valuable resources we have as graduate students. If you are unable to resolve a particular conflict, let Elise weigh in on your problem.
+5. **Talk to Hank Levy, Dept. Chair** Having been a faculty member for many years, Hank has experience with all facets of the advising experience. He also happens to be a nice guy.
 
-
+Note that these solutions apply to almost any issue you could have during your grad student experience. Below, we provide a list of issues that grad student have run into in the past. Keep in mind that every one of these issues can be resolved by following the suggestions above!
 
 1. I want to work with Prof. X, how do I ask them?
 
