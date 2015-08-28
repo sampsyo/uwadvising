@@ -66,25 +66,6 @@ In an ideal world, every student's advisor would be his or her mentor. However, 
 * Career mentoring
 * Regular meetings
 
-####Mentor vs. Boss
-What's the tone of your relationship? Our department culture fosters the idea that students and faculty are colleagues, an idea most students prefer. However, reality dictates that faculty are "colleagues with authority." It is important to maintain balance in your advising relationship:
-* Does your advisor treat you as a colleague rather than an employee?
-* Does your advisor help you make decisions that are in your best interest?
-* Does your research involve you implementing your advisors ideas or more joint brainstorming and collaboration?
-* Does your advisor respect your personal non-work time?
-
-####Joint advising?
-One advisor isn't enough? Perhaps consider a co-advising situation with complementary faculty members.
-
-####What do you like about your advisor?
-The following are direct responses from a survey of graduate students.
-* "My advisor genuinely cares about his students---both professionally and personally."
-* "He is pleasant and funny and we make jokes frequently."
-* "...great at discussing research and publications."
-* "I like his willingness to share ideas."
-* "...being considerate, not only on research, but also on my career and personal life."
-* "My advisor is very encouraging and keeps me motivated and directed."
-
 ##What your advisor can expect from you
 By understanding your advisor's expectations and by meeting or exceeding those expectations, you are helping to assure your success in graduate school. So, what can your advisor expect from you?
 
