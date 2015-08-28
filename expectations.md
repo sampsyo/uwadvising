@@ -4,7 +4,7 @@ Every advisor is unique. Each advisor has his or her own ideas about everything 
 ####Communication: 
 Communication is the most important facet of your working relationship with your advisor. You can expect your advisor to clearly communicate his or her thoughts and expectations to you. When your advisor is not communicative about key topics, you should feel right at home approaching him or her for clarification. 
 
-*Expectations:* Your advisor should clearly communicate his or her expectations. Your advisor's expectations regarding the following things are especially important:
+*Expectations:* Your advisor should clearly communicate his or her expgectations. Your advisor's expectations regarding the following things are especially important:
 * *Quals:* Timeframe, publishability, scope
 * *Generals:* Timeframe, style, scope, communication during the exam, relationship to thesis
 * *Progress:* Milestones, publications
@@ -43,19 +43,19 @@ A major role of faculty members is to mentor students. From the faculty side, me
 
 *Guiding:* Part of mentoring is creating well rounded students. Expect your advisor to guide you to:
 * Plan and perform research
-* Teach in a classroom setting
+* Help you find teaching opportunities if interested
 * Communicate your research and ideas effectively
-* Get you started on writing grants and research proposals
+* For more senior students, get you started on writing grants and research proposals
 * Work on service committees
 * Mentor younger students
 
-*Networking:* As is often true elsewhere, it's not what you know, it's who you know. Expect your advisor to:
+*Networking:* Expect your advisor to:
 * Advocate for you, both inside and outside the department.
 * At conferences, to take the time to introduce you to his contacts
 * Utilize his or her professional network during job searches
 * Nominate you for fellowships and awards you deserve
 
-In an ideal world, every student's advisor would be his or her mentor. However, this may not always be possible or beneficial. In the case that your research advisor is not mentoring you well, it would be beneficial for you to discuss this with your advisor, or to seek advice from another faculty member.
+In an ideal world, every student's advisor would be his or her mentor. However, this may not always be possible or beneficial. In the case that your research advisor is not mentoring you well, it would be beneficial for you to discuss this with your advisor, or to seek advice from another faculty member such as Elise (elised@cs) or Anna (karlin@cs).
 
 ###What you can expect from your advisor: Top five...
 * Clear communication
@@ -103,9 +103,9 @@ You are in graduate school to become world-class researchers as well as well rou
 * Understand that faculty members are juggling a lot: teaching, research, advising, committees, and their families, too!
 
 ###What your advisor can expect from you: Top five...
+* High quality work
 * Own your own career
 * Accept constructive criticism
 * Honest progress reports
-* Initiative
-* High quality work
+* Work hard and show initiative
 
