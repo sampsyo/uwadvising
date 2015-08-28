@@ -300,11 +300,13 @@ We always hope that things go well. Sometimes, they don't. Here's what to do.
 1. **Don't wait. Deal with it NOW.** Problems in advising relationships, just as in any other relationship, cannot be resolved without good communication. Almost all issues can be solved by simply having an open and honest conversation with your adviser. The earlier you talk to your adviser, the easier it is to resolve most problems.
 2. **Poll your officemates, mentors, and groupmates.** Chances are, your older officemates have been there. Leverage that experience when you can.
 3. **Talk to your grad student mentor.** Upon entering the Ph.D. program, you were assigned a student mentor. This mentor has likely experienced most of the same issues you may experience and can therefore provide you with useful advice.  
-3. **Talk to the Grad. Program Coordinator, Anna Karlin (karlin@cs)** Anna is a wealth of information and is more than happy to lend her expertise to helping resolve your problem.
+3. **Talk to the Grad. Program Coordinator, Anna Karlin (karlin@cs)** Anna is more than happy to lend her expertise to helping resolve your problem.
 4. **Talk to Elise (elised@cs)** Elise, as we all know, is one of the most valuable resources we have as graduate students. If you are unable to resolve a particular conflict, let Elise weigh in on your problem.
 5. **Talk to Hank Levy, Dept. Chair** Having been a faculty member for many years, Hank has experience with all facets of the advising experience. He also happens to be a nice guy.
 
-Note that these solutions apply to almost any issue you could have during your grad student experience. Below, we provide a list of issues that grad student have run into in the past. Keep in mind that every one of these issues can be resolved by following the suggestions above!
+Note that these solutions apply to almost any issue you could have during your grad student experience. 
+
+##Frequency Asked Questions
 
 1. I want to work with Prof. X, how do I ask them?
 
@@ -316,15 +318,15 @@ Have you talked to your adviser about this yet? Having open and honest communica
 
 3. I'm not sure what research area I am interested in, how can I find a research area?
 
-You have several resources at your disposal. First, take seminars in areas that you may be interested in. Seminars often provide a broad overview of the current state of the art in different subfields through paper readings. Second, take a look at the websites for different research groups in the department and speak to current grad students in the groups that seem most appealing to you. Finally, talk with your temporary adviser. They are often a wealth of information and can help point you in the right direction. 
+You have several resources at your disposal. First, take seminars in areas that you may be interested in. Seminars often provide a broad overview of the current state of the art in different subfields through paper readings. Second, take a look at the websites for different research groups in the department and speak to current grad students in the groups that seem most appealing to you. Finally, talk with your temporary adviser. Often they can help point you in the right direction. 
 
 4. I am worried my adviser is not happy with my research progress.
 
-Being repetitive, have you talked to your adviser about this yet? You should be having regular conversations about your progress and your adviser should express their expectations to you clearly. If you aren't sure, then talk to them!
+Being repetitive, have you talked to your adviser about this yet? You should be having regular conversations about your progress and your adviser should express his or her expectations to you clearly. If you aren't sure, then talk to them!
 
 5. It seems like everyone else is making a lot more progress than me.
 
-This is a very common sentiment in newer grad students, although it is often not well founded. Again, grad school is tough. Things will not always go as planned, and often, projects will take a lot of work to make only moderate progress. This is normal. Don't compare yourself to other grad students. Instead, make sure that your adviser is satisfied with the progress you are making by discussing it with them. 
+This is a very common sentiment in newer grad students, although it is often not well founded. Again, grad school is tough. Things will not always go as planned, and often, projects will take a lot of work to make only moderate progress. This is normal. Don't compare yourself to other grad students. Instead, think about how you are investing your time and effort to be as effective as possible. How are you doing today versus several months ago, or last year? Are you satisfied with the way you are doing your research and the success you are acheiving? When you are not making the amount of progress you want, it is important to recognize that sometimes this is caused by a problem being very challenging, or your advisors expectations are too high, but sometimes, you simply are not working hard enough. You should address this with you advisor.
 
 6. My adviser is never available. How can I get them to make time for me?
 
@@ -332,7 +334,7 @@ Having regular communications with your adviser is critical to your success as a
 
 7. I feel like I spend so much time doing coursework or TA'ing that I don't have anytime for research. What should I do?
 
-This comes down to time management. Grad school is very demanding, and you are going to have to learn to juggle many responsibilities at once. Try to schedule your time so that you dedicate specific time to each of your responsibilities. Talk to more senior students about how they manage their time in order to get some ideas about how you can improve your time management.
+This comes down to time management. Grad school is very demanding, and you are going to have to learn to juggle many responsibilities at once. Try to schedule your time so that you dedicate specific time to each of your responsibilities. Talk to more senior students about how they manage their time in order to get some ideas about how you can improve your time management. Also recognize that some research areas inherently have less funding, requiring students to do more TA'ing. This is simply a reality in certain fields.
 
 8. My adviser said he doesn't want to work with me.
 
