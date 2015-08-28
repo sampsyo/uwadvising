@@ -12,8 +12,7 @@ Communication is the most important facet of your working relationship with your
 *Meetings:* How you and your advisor communicate with each other is also important. Face to face interactions allow for collaboration, progress reporting, and mentoring. You can expect your advisor to:
 * Meet with you regularly
 * Actively consider your ideas during meetings
-* Be available for extra face time within a couple of days of a request.
-* Respond to your communications promptly
+* Respond to your communications within a reasonable amount of time
 * Schedule/cancel meetings at least a day in advance, when possible
 * Tell you if he or she is leaving town
 
@@ -28,7 +27,6 @@ One of your top priorities in graduate school will be research. Agreeing on a cl
 * Know your research goals
 * Provide research direction according to your level, ambition, and independence
 * Assess your individual needs
-* Save state between meetings
 * Communicate about conferences and publishing
 * Give direction/help with technical problems
 
@@ -69,21 +67,6 @@ In an ideal world, every student's advisor would be his or her mentor. However, 
 ##What your advisor can expect from you
 By understanding your advisor's expectations and by meeting or exceeding those expectations, you are helping to assure your success in graduate school. So, what can your advisor expect from you?
 
-####Communication: 
-As we've continually stressed, communication is the key to success. Your advisor expects you to:
-* Speak up if problems arise
-* Listen to what he/she says
-* Respect his/her ideas
-* Accept constructive criticism
-* Provide honest progress reporting
-* Respond promptly to communication
-
-*Meetings:* Just as you can expect your advisor to meet with you face-to-face, you'll find that faculty also have expectations regarding meetings.
-* Prepare appropriately, otherwise reschedule
-* Show up on time
-* Attend all group meetings and relevant 590's
-* Meet on advisor's request, with reasonable notice
-
 ####Performance:
 Each advisor has different expectations about the performance of his or her students. Keep in mind the following expectations your advisor has for you so things run smoothly:
 * Show initiative
@@ -96,6 +79,13 @@ Each advisor has different expectations about the performance of his or her stud
 * Maintain labs, software, and hardware for your group
 * Document your research, designs, code, and meetings
 * Be a TA, especially for niche subjects
+
+*Meetings:* Just as you can expect your advisor to meet with you face-to-face, you'll find that faculty also have expectations regarding meetings.
+* Prepare appropriately, otherwise reschedule
+* Show up on time
+* Attend all group meetings and relevant 590's
+* Meet on advisor's request, with reasonable notice
+* Save state between meetings
 
 ####Professional Development: 
 You are in graduate school to become world-class researchers as well as well rounded potential faculty members. You're expected to:
