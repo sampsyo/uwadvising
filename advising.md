@@ -1,35 +1,18 @@
 # Expectations in Advising
 
-_Department of Computer Science & Engineering, University of Washington, Oct. 2005_
+_Department of Computer Science & Engineering, University of Washington, Sep. 2015
 
 
 ## A note from the chair
 
-The success of UW Computer Science & Engineering depends enormously on
-the success of our students, which in turn depends on active and
-thoughtful advising relationships between students and their advisors.
-This document is based on a tremendous amount of work by our
-graduate students, including extensive discussions, surveys, and a session
-at the 2005 annual departmental retreat. The goal is to make us all
-better participants in the advising relationship by increasing the
-clarity of the responsibilities and by increasing our mindfulness of
-this critically valuable and important process.
+The success of UW Computer Science & Engineering depends enormously on the success of our students, which in turn depends on active and thoughtful advising relationships between students and their advisors. This document is based on a tremendous amount of work by our graduate students. The goal is to make us all better participants in the advising relationship by increasing the clarity of the responsibilities and by increasing our mindfulness of this critically valuable and important process.
 
-My personal advising and mentoring philosophy is drawn from my own
-Ph.D. advisor, Nico Habermann, who said to focus on graduating terrific
-students, which guarantees terrific research---focusing on terrific
-research may or may not lead to the graduating of terrific students.
+The material in this document contains wonderful advice for students, and I recommend you read it carefully and keep it around to refer to now and then.
 
-The material in this document contains wonderful advice for students, and
-I recommend you read it carefully and keep it around to refer to now
-and then.
+Best of luck in finding an advising relationship that can help you reach beyond your own expectations---we know you can, and we're ready to help!
 
-Best of luck in finding an advising relationship that can help you
-reach beyond your own expectations---we know you can, and we're
-ready to help!
-
---- David Notkin  
-CSE Dept. Chair '01--'06
+--- Hank Levy 
+CSE Department Chair
 
 
 ## Communication is the key
