@@ -129,7 +129,7 @@ By understanding your advisor's expectations and by meeting or exceeding those e
 
 ####Performance:
 Each advisor has different expectations about the performance of his or her students. Keep in mind the following expectations your advisor has for you so things run smoothly:
-* Show initiative
+* Work hard and show initiative (this can't be stressed enough)
 * Do what you've promised
 * Produce high quality work
 * Regular progress
