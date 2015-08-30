@@ -185,7 +185,7 @@ Note that these solutions apply to almost any issue you could have during your g
 
 ##Frequency Asked Questions
 
-1. **I want to work with Prof. X, how do I ask them?**8
+1. **I want to work with Prof. X, how do I ask them?**
 
  A simple introduction email can go a long way! Reach out and ask to set up a meeting with Professor X. Before going to the meeting, make sure you have something interesting to say. That is, you should have read several of the recent papers written by this professor so you know what he/she is working on. 
 
