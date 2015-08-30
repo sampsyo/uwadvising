@@ -1,6 +1,6 @@
 # Expectations in Advising
 
-_Department of Computer Science & Engineering, University of Washington, Sep. 2015
+_Department of Computer Science & Engineering, University of Washington, Sep. 2015_
 
 
 ## A note from the chair
