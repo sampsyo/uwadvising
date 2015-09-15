@@ -1,7 +1,8 @@
 # Expectations in Advising
 
-_Department of Computer Science & Engineering, University of Washington, Sep. 2015_
+_Department of Computer Science & Engineering, University of Washington_
 
+_Revised: September 2015_
 
 ## A note from the chair
 
@@ -17,7 +18,7 @@ CSE Department Chair
 
 ## The First Year
 
-In your first year or so at UW, you should find a research topic to get started on. Part of finding a research topic is finding a research advisor to do the work with. When you come into the department, you'll have a *temporary advisor* who should help you through this process. Most people start doing research with their temporary advisor, who will eventually become their "real" advisor. But that's not true for everyone---sometimes, you need to find a new topic, a new advising relationship, or both. Here's some advice for looking for a good topic/advising match.
+In your first year or so at UW you should find a research topic to get started on. Part of finding a research topic is finding a research advisor to do the work with. When you come into the department, you'll have a *temporary advisor* who should help you through this process. Most people start doing research with their temporary advisor, who will eventually become their "real" advisor. But that's not true for everyone---sometimes, you need to find a new topic, a new advising relationship, or both. Here's some advice for looking for a good topic/advising match.
 
 ### Don't Panic
 
@@ -43,7 +44,7 @@ If you're not sure yet which broad research area in CSE you want to pursue, here
 If you have a topic in mind, the next step is to find a faculty member to advise you. This means finding a potential advisor who seems like a good technical and personal fit---and means convincing them that you're a good match. Here are some tips for finding and talking to a good potential advisor.
 
 * Younger faculty with fewer students can be more approachable than senior professors who might already be at advising capacity.
-* Consider starting by taking a class with someone you might want to work with. This can both of you get a sense for each other.
+* Consider starting by taking a class with someone you might want to work with. This can allow both of you to get a sense for each other.
 * Talk to the professor's current grad students to introduce yourself and find out what it's like to work with them.
 * Before you talk to a potential advisor, read some of their recent papers so you have something to talk about. Come up with an interesting question or two to ask about their work.
 
@@ -61,10 +62,10 @@ If you have a (tentative) advisor, it's time to get started on your research. Yo
 ##What you can expect from your advisor
 Every advisor is unique. Each advisor has his or her own ideas about everything from qualifiers, to publishing, to making pizza. You cannot expect your advisor to be exactly like any other, just as you are not like any other student. What you can expect, however, is for your advisor to adhere to the following general guidelines.
 
-####Communication: 
+###Communication: 
 Communication is the most important facet of your working relationship with your advisor. You can expect your advisor to clearly communicate his or her thoughts and expectations to you. When your advisor is not communicative about key topics, you should feel right at home approaching him or her for clarification. 
 
-*Expectations:* Your advisor should clearly communicate his or her expgectations. Your advisor's expectations regarding the following things are especially important:
+*Expectations:* Your advisor should clearly communicate his or her expectations. Your advisor's expectations regarding the following things are especially important:
 * *Quals:* Timeframe, publishability, scope
 * *Generals:* Timeframe, style, scope, communication during the exam, relationship to thesis
 * *Progress:* Milestones, publications
@@ -82,7 +83,7 @@ Communication is the most important facet of your working relationship with your
 * Positive feedback
 * An occasional "kick," for encouragement
 
-####Research Advising: 
+###Research Advising: 
 One of your top priorities in graduate school will be research. Agreeing on a clear research agenda is crucial to both you and your advisor. Expect your advisor to:
 * Know your research goals
 * Provide research direction according to your level, ambition, and independence
@@ -95,7 +96,7 @@ One of your top priorities in graduate school will be research. Agreeing on a cl
 * Make your funding status very clear
 * Help you find other sources of funding such as TA-ships or fellowships should an RA-ship not be available
 
-####Mentoring: 
+###Mentoring: 
 A major role of faculty members is to mentor students. From the faculty side, mentoring involves:
 * Helping you choose career direction, research direction, and professional activities
 * Knowing your educational, cultural, and employment background
@@ -111,7 +112,7 @@ A major role of faculty members is to mentor students. From the faculty side, me
 
 *Networking:* Expect your advisor to:
 * Advocate for you, both inside and outside the department.
-* At conferences, to take the time to introduce you to his contacts
+* At conferences, to take the time to introduce you to his or her contacts
 * Utilize his or her professional network during job searches
 * Nominate you for fellowships and awards you deserve
 
@@ -127,12 +128,12 @@ In an ideal world, every student's advisor would be his or her mentor. However, 
 ##What your advisor can expect from you
 By understanding your advisor's expectations and by meeting or exceeding those expectations, you are helping to assure your success in graduate school. So, what can your advisor expect from you?
 
-####Performance:
+###Performance:
 Each advisor has different expectations about the performance of his or her students. Keep in mind the following expectations your advisor has for you so things run smoothly:
 * Work hard and show initiative (this can't be stressed enough)
 * Do what you've promised
 * Produce high quality work
-* Regular progress
+* Make progress regularly
 * Meet agreed-upon goals
 
 *Grunt Work:* Let's face it. This place does not run itself. As a graduate student, faculty expect you to:
@@ -147,7 +148,7 @@ Each advisor has different expectations about the performance of his or her stud
 * Meet on advisor's request, with reasonable notice
 * Save state between meetings
 
-####Professional Development: 
+###Professional Development: 
 You are in graduate school to become world-class researchers as well as well rounded potential faculty members. You're expected to:
 * Own your own career
 * Actively consider future research directions
