@@ -12,13 +12,13 @@ The material in this document contains wonderful advice for students, and I reco
 
 Best of luck in finding an advising relationship that can help you reach beyond your own expectations---we know you can, and we're ready to help!
 
---- Hank Levy 
+--- Hank Levy  
 CSE Department Chair
 
 
 ## The First Year
 
-In your first year or so at UW you should find a research topic to get started on. Part of finding a research topic is finding a research advisor to do the work with. When you come into the department, you'll have a *temporary advisor* who should help you through this process. Most people start doing research with their temporary advisor, who will eventually become their "real" advisor. But that's not true for everyone---sometimes, you need to find a new topic, a new advising relationship, or both. Here's some advice for looking for a good topic/advising match.
+In your first year or so at UW you should find a research topic to get started on. Part of finding a research topic is finding a research advisor to do the work with. When you come into the department, you'll have a *temporary advisor* who should help you through this process. Most people start doing research with their temporary advisor, who will eventually become their permanent advisor. But that's not true for everyone---sometimes, you need to find a new topic, a new advising relationship, or both. Here's some advice for looking for a good topic/advising match.
 
 ### Don't Panic
 
@@ -43,10 +43,13 @@ If you're not sure yet which broad research area in CSE you want to pursue, here
 
 If you have a topic in mind, the next step is to find a faculty member to advise you. This means finding a potential advisor who seems like a good technical and personal fit---and means convincing them that you're a good match. Here are some tips for finding and talking to a good potential advisor.
 
+* Your temporary advisor probably has ideas about who might be a good match.
 * Younger faculty with fewer students can be more approachable than senior professors who might already be at advising capacity.
 * Consider starting by taking a class with someone you might want to work with. This can allow both of you to get a sense for each other.
 * Talk to the professor's current grad students to introduce yourself and find out what it's like to work with them.
 * Before you talk to a potential advisor, read some of their recent papers so you have something to talk about. Come up with an interesting question or two to ask about their work.
+
+When you're looking for advisors, keep in mind that joint advising is a popular option---sometimes more advisors are better than one.
 
 If you're having trouble finding someone to work with, talk to Elise.
 
@@ -55,8 +58,8 @@ If you're having trouble finding someone to work with, talk to Elise.
 If you have a (tentative) advisor, it's time to get started on your research. Your advisor should help you find a specific topic and point you in the right direction. Here are some things to keep in mind as you get started:
 
 * Read closely and often. Learning to read papers from your area with a critical eye can be crucial to doing great work yourself.
-* Start by working with a senior grad student. Your advisor can help you find a research project that's underway that you can help with. Pairing up with someone more experienced is a great way to learn the ropes before you launch your own research agenda.
-* Be excited about your work. Doing great research when you don't care about it is next to impossible. Be sure to communicate openly with your advisor about what you like (and don't) about research---advisors can't know you're unhappy if you toil in silence.
+* Start by working with a senior grad student. Your advisor can help you find a research project that's underway that you can help with. Pairing up with someone more experienced is a great way to learn the ropes before you launch your own research agenda. Even doing some "manual labor" for another student's project can be a great way to gain momentum.
+* Choose work you're excited about. Doing great research when you don't care about it is next to impossible. Be sure to communicate openly with your advisor about what you like (and don't) about research---advisors can't know you're unhappy if you toil in silence.
 
 
 ##What you can expect from your advisor
@@ -192,7 +195,7 @@ Note that these solutions apply to almost any issue you could have during your g
 
 2. **I am not happy with my current research project, what should I do?**
 
- Have you talked to your advisor about this yet? Having open and honest communication with your advisor is critical to your success. If the project you are working on isn't interesting to you, then talk to your advisor about how you can either shift the focus of the project or come up with a different project to fit your interests. That being said, grad school is tough, and research is not often going to be easy. Make sure you aren't quitting a project because it is difficult. Working through difficulties in research is a skill all Ph.D. students are expected to learn. 
+ Have you talked to your advisor about this yet? Having open and honest communication with your advisor is critical to your success. If the project you are working on isn't interesting to you, then talk to your advisor about how you can either shift the focus of the project or come up with a different project to fit your interests. That being said, grad school is tough, and research is not often going to be easy. Make sure you aren't quitting a project because it is difficult. Working through difficulties in research is a skill all Ph.D. students learn.
 
 3. **I'm not sure what research area I am interested in, how can I find a research area?**
 
