@@ -61,10 +61,12 @@ If you have a (tentative) advisor, it's time to get started on your research. Yo
 * Choose work you're excited about. Doing great research when you don't care about it is next to impossible. Be sure to communicate openly with your advisor about what you like (and don't) about research---advisors can't know you're unhappy if you toil in silence.
 
 
-##What you can expect from your advisor
+## What You Can Expect from Your Advisor
+
 Every advisor is unique. Each advisor has his or her own ideas about everything from qualifiers, to publishing, to making pizza. You cannot expect your advisor to be exactly like any other, just as you are not like any other student. What you can expect, however, is for your advisor to adhere to the following general guidelines.
 
-###Communication:
+### Communication
+
 Communication is the most important facet of your working relationship with your advisor. You can expect your advisor to clearly communicate his or her thoughts and expectations to you. When your advisor is not communicative about key topics, you should feel right at home approaching him or her for clarification.
 
 *Expectations:* Your advisor should clearly communicate his or her expectations. Your advisor's expectations regarding the following things are especially important:
@@ -85,7 +87,8 @@ Communication is the most important facet of your working relationship with your
 * Positive feedback
 * An occasional "kick," for encouragement
 
-###Research Advising:
+### Research Advising
+
 One of your top priorities in graduate school will be research. Agreeing on a clear research agenda is crucial to both you and your advisor. Expect your advisor to:
 * Know your research goals
 * Provide research direction according to your level, ambition, and independence
@@ -98,7 +101,8 @@ One of your top priorities in graduate school will be research. Agreeing on a cl
 * Make your funding status very clear
 * Help you find other sources of funding such as TA-ships or fellowships should an RA-ship not be available
 
-###Mentoring:
+### Mentoring
+
 A major role of faculty members is to mentor students. From the faculty side, mentoring involves:
 * Helping you choose career direction, research direction, and professional activities
 * Knowing your educational, cultural, and employment background
@@ -120,17 +124,21 @@ A major role of faculty members is to mentor students. From the faculty side, me
 
 In an ideal world, every student's advisor would be his or her mentor. However, this may not always be possible or beneficial. In the case that your research advisor is not mentoring you well, it would be beneficial for you to discuss this with your advisor, or to seek advice from another faculty member such as Elise (elised@cs) or Anna (karlin@cs).
 
-###What you can expect from your advisor: Top five...
+### What You Can Expect from Your Advisor: Top Five
+
 * Clear communication
 * Constructive criticism
 * Positive feedback
 * Career mentoring
 * Regular meetings
 
-##What your advisor can expect from you
+
+## What Your Advisor Can Expect from You
+
 By understanding your advisor's expectations and by meeting or exceeding those expectations, you are helping to assure your success in graduate school. So, what can your advisor expect from you?
 
-###Performance:
+### Performance
+
 Each advisor has different expectations about the performance of his or her students. Keep in mind the following expectations your advisor has for you so things run smoothly:
 * Work hard and show initiative (this can't be stressed enough)
 * Do what you've promised
@@ -150,7 +158,8 @@ Each advisor has different expectations about the performance of his or her stud
 * Meet on advisor's request, with reasonable notice
 * Save state between meetings
 
-###Professional Development:
+### Professional Development
+
 You are in graduate school to become world-class researchers as well as well rounded potential faculty members. You're expected to:
 * Own your own career
 * Actively consider future research directions
@@ -165,7 +174,8 @@ You are in graduate school to become world-class researchers as well as well rou
 * Stay interested in your work
 * Understand that faculty members are juggling a lot: teaching, research, advising, committees, and their families, too!
 
-###What your advisor can expect from you: Top five...
+### What Your Advisor Can Expect from You: Top Five
+
 * High quality work
 * Own your own career
 * Accept constructive criticism
@@ -184,9 +194,10 @@ We always hope that things go well. Sometimes, they don't. Here's what to do.
 4. **Talk to Elise (elised@cs)** Elise, as we all know, is one of the most valuable resources we have as graduate students. If you are unable to resolve a particular conflict, let Elise weigh in on your problem.
 5. **Talk to Hank Levy, Dept. Chair** Having been a faculty member for many years, Hank has experience with all facets of the advising experience. He also happens to be a nice guy.
 
-Note that these solutions apply to almost any issue you could have during your grad student experience.
+These solutions apply to almost any issue you could have during your grad student experience.
 
-##Frequency Asked Questions
+
+## Frequently Asked Questions
 
 1. **I want to work with Prof. X, how do I ask them?**
 
