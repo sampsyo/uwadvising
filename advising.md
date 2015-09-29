@@ -81,6 +81,8 @@ Communication is the most important facet of your working relationship with your
 * Schedule/cancel meetings at least a day in advance, when possible
 * Tell you if he or she is leaving town
 
+Meeting frequency can vary from advisor to advisor and from student to student. Many advisors and students like to set up weekly appointments, but biweekly or even less can be better if you're working mostly independently. You and your advisor should choose the rate together.
+
 *Feedback:* Receiving feedback from your advisor will help you to adjust your performance to meet his or her expectations. Expect:
 * Honest feedback
 * Constructive criticism
