@@ -1,10 +1,9 @@
 # Expectations in Advising
 
-_Department of Computer Science & Engineering, University of Washington_
-
+_Department of Computer Science & Engineering, University of Washington_  
 _Revised: September 2015_
 
-## A note from the chair
+## A Note from the Chair
 
 The success of UW Computer Science & Engineering depends enormously on the success of our students, which in turn depends on active and thoughtful advising relationships between students and their advisors. This document is based on a tremendous amount of work by our graduate students. The goal is to make us all better participants in the advising relationship by increasing the clarity of the responsibilities and by increasing our mindfulness of this critically valuable and important process.
 
@@ -65,8 +64,8 @@ If you have a (tentative) advisor, it's time to get started on your research. Yo
 ##What you can expect from your advisor
 Every advisor is unique. Each advisor has his or her own ideas about everything from qualifiers, to publishing, to making pizza. You cannot expect your advisor to be exactly like any other, just as you are not like any other student. What you can expect, however, is for your advisor to adhere to the following general guidelines.
 
-###Communication: 
-Communication is the most important facet of your working relationship with your advisor. You can expect your advisor to clearly communicate his or her thoughts and expectations to you. When your advisor is not communicative about key topics, you should feel right at home approaching him or her for clarification. 
+###Communication:
+Communication is the most important facet of your working relationship with your advisor. You can expect your advisor to clearly communicate his or her thoughts and expectations to you. When your advisor is not communicative about key topics, you should feel right at home approaching him or her for clarification.
 
 *Expectations:* Your advisor should clearly communicate his or her expectations. Your advisor's expectations regarding the following things are especially important:
 * *Quals:* Timeframe, publishability, scope
@@ -86,7 +85,7 @@ Communication is the most important facet of your working relationship with your
 * Positive feedback
 * An occasional "kick," for encouragement
 
-###Research Advising: 
+###Research Advising:
 One of your top priorities in graduate school will be research. Agreeing on a clear research agenda is crucial to both you and your advisor. Expect your advisor to:
 * Know your research goals
 * Provide research direction according to your level, ambition, and independence
@@ -99,7 +98,7 @@ One of your top priorities in graduate school will be research. Agreeing on a cl
 * Make your funding status very clear
 * Help you find other sources of funding such as TA-ships or fellowships should an RA-ship not be available
 
-###Mentoring: 
+###Mentoring:
 A major role of faculty members is to mentor students. From the faculty side, mentoring involves:
 * Helping you choose career direction, research direction, and professional activities
 * Knowing your educational, cultural, and employment background
@@ -151,7 +150,7 @@ Each advisor has different expectations about the performance of his or her stud
 * Meet on advisor's request, with reasonable notice
 * Save state between meetings
 
-###Professional Development: 
+###Professional Development:
 You are in graduate school to become world-class researchers as well as well rounded potential faculty members. You're expected to:
 * Own your own career
 * Actively consider future research directions
@@ -185,13 +184,13 @@ We always hope that things go well. Sometimes, they don't. Here's what to do.
 4. **Talk to Elise (elised@cs)** Elise, as we all know, is one of the most valuable resources we have as graduate students. If you are unable to resolve a particular conflict, let Elise weigh in on your problem.
 5. **Talk to Hank Levy, Dept. Chair** Having been a faculty member for many years, Hank has experience with all facets of the advising experience. He also happens to be a nice guy.
 
-Note that these solutions apply to almost any issue you could have during your grad student experience. 
+Note that these solutions apply to almost any issue you could have during your grad student experience.
 
 ##Frequency Asked Questions
 
 1. **I want to work with Prof. X, how do I ask them?**
 
- A simple introduction email can go a long way! Reach out and ask to set up a meeting with Professor X. Before going to the meeting, make sure you have something interesting to say. That is, you should have read several of the recent papers written by this professor so you know what he/she is working on. 
+ A simple introduction email can go a long way! Reach out and ask to set up a meeting with Professor X. Before going to the meeting, make sure you have something interesting to say. That is, you should have read several of the recent papers written by this professor so you know what he or she is working on.
 
 2. **I am not happy with my current research project, what should I do?**
 
@@ -199,7 +198,7 @@ Note that these solutions apply to almost any issue you could have during your g
 
 3. **I'm not sure what research area I am interested in, how can I find a research area?**
 
- You have several resources at your disposal. First, take seminars in areas that you may be interested in. Seminars often provide a broad overview of the current state of the art in different subfields through paper readings. Second, take a look at the websites for different research groups in the department and speak to current grad students in the groups that seem most appealing to you. Finally, talk with your temporary advisor. Often they can help point you in the right direction. 
+ You have several resources at your disposal. First, take seminars in areas that you may be interested in. Seminars often provide a broad overview of the current state of the art in different subfields through paper readings. Second, take a look at the websites for different research groups in the department and speak to current grad students in the groups that seem most appealing to you. Finally, talk with your temporary advisor. Often they can help point you in the right direction.
 
 4. **I am worried my advisor is not happy with my research progress.**
 
@@ -213,11 +212,11 @@ Note that these solutions apply to almost any issue you could have during your g
 
  Having regular communications with your advisor is critical to your success as a grad student. Talk to your advisor about finding a set time in which to meet on some regular basis. If after talking to your advisor, they still can not make time for you, it may be time to consider finding another advisor. Note: this is a very unlikely scenario!
 
-7. **My advisor is very demanding, and I think he expects more of me than I can provide / I feel like I spend so much time doing coursework or TA'ing that I don't have anytime for research. What should I do?**
+7. **My advisor is very demanding, and I think they expect more of me than I can provide / I feel like I spend so much time doing coursework or TA'ing that I don't have anytime for research. What should I do?**
 
  This comes down to time management. Grad school is very demanding, and you are going to have to learn to juggle many responsibilities at once. Try to schedule your time so that you dedicate specific time to each of your responsibilities. Talk to more senior students about how they manage their time in order to get some ideas about how you can improve your time management. Also recognize that some research areas inherently have less funding, requiring students to do more TA'ing. This is simply a reality in certain fields.
 
-8. **My advisor said he doesn't want to work with me.**
+8. **My advisor said they don't want to work with me.**
 
  Extremely rarely, advisor-advisee relationships simply don't work out. This is ok! Talk to other professors you may be interested in working with and try to find someone who you could develop an effective working relationship with. Feel free to consult Elise or Anna for advise or direction when dealing with this type of problem.
 
