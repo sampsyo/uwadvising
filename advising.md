@@ -187,19 +187,23 @@ You are in graduate school to become world-class researchers as well as well rou
 
 We always hope that things go well. Sometimes, they don't. Here's what to do.
 
-1. **Don't wait. Deal with it NOW.** Problems in advising relationships, just as in any other relationship, cannot be resolved without good communication. Almost all issues can be solved by simply having an open and honest conversation with your advisor. The earlier you talk to your advisor, the easier it is to resolve most problems.
+1. **Don't wait. Deal with it *now*.** Problems in advising relationships, just as in any other relationship, cannot be resolved without good communication. Almost all issues can be solved by simply having an open and honest conversation with your advisor. The earlier you talk to your advisor, the easier it is to resolve most problems.
 2. **Poll your officemates, mentors, and groupmates.** Chances are, your older officemates have been there. Leverage that experience when you can.
 3. **Talk to your grad student mentor.** Upon entering the Ph.D. program, you were assigned a student mentor. This mentor has likely experienced most of the same issues you may experience and can therefore provide you with useful advice.  
-3. **Talk to the Grad. Program Coordinator, Anna Karlin (karlin@cs)** Anna is more than happy to lend her expertise to helping resolve your problem.
-4. **Talk to Elise (elised@cs)** Elise, as we all know, is one of the most valuable resources we have as graduate students. If you are unable to resolve a particular conflict, let Elise weigh in on your problem.
-5. **Talk to Hank Levy, Dept. Chair** Having been a faculty member for many years, Hank has experience with all facets of the advising experience. He also happens to be a nice guy.
+3. **Talk to the Grad Program Coordinator, [Anna Karlin][anna].** Anna is more than happy to lend her expertise to helping resolve your problem.
+4. **Talk to [Elise deGoede Dorough][elise].** Elise, as we all know, is one of the most valuable resources we have as graduate students. If you are unable to resolve a particular conflict, let Elise weigh in on your problem.
+5. **Talk to [Hank Levy][hank], the department chair.** Having been a faculty member for many years, Hank has experience with all facets of the advising experience. He also happens to be a nice guy.
 
 These solutions apply to almost any issue you could have during your grad student experience.
+
+[elise]: mailto:elised@cs.washington.edu
+[anna]: mailto:karlin@cs.washington.edu
+[hank]: mailto:levy@cs.washington.edu
 
 
 ## Frequently Asked Questions
 
-1. **I want to work with Prof. X, how do I ask them?**
+1. **I want to work with Prof. X. How do I ask them?**
 
  A simple introduction email can go a long way! Reach out and ask to set up a meeting with Professor X. Before going to the meeting, make sure you have something interesting to say. That is, you should have read several of the recent papers written by this professor so you know what he or she is working on.
 
@@ -223,14 +227,14 @@ These solutions apply to almost any issue you could have during your grad studen
 
  Having regular communications with your advisor is critical to your success as a grad student. Talk to your advisor about finding a set time in which to meet on some regular basis. If after talking to your advisor, they still can not make time for you, it may be time to consider finding another advisor. Note: this is a very unlikely scenario!
 
-7. **My advisor is very demanding, and I think they expect more of me than I can provide / I feel like I spend so much time doing coursework or TA'ing that I don't have anytime for research. What should I do?**
+7. **My advisor is very demanding, and I think they expect more of me than I can provide. Or: I feel like I spend so much time doing coursework or TA'ing that I don't have anytime for research. What should I do?**
 
  This comes down to time management. Grad school is very demanding, and you are going to have to learn to juggle many responsibilities at once. Try to schedule your time so that you dedicate specific time to each of your responsibilities. Talk to more senior students about how they manage their time in order to get some ideas about how you can improve your time management. Also recognize that some research areas inherently have less funding, requiring students to do more TA'ing. This is simply a reality in certain fields.
 
 8. **My advisor said they don't want to work with me.**
 
- Extremely rarely, advisor-advisee relationships simply don't work out. This is ok! Talk to other professors you may be interested in working with and try to find someone who you could develop an effective working relationship with. Feel free to consult Elise or Anna for advise or direction when dealing with this type of problem.
+ Extremely rarely, advisor-advisee relationships simply don't work out. This is OK! Talk to other professors you may be interested in working with and try to find someone who you could develop an effective working relationship with. Feel free to consult Elise or Anna for advise or direction when dealing with this type of problem.
 
-9. **I no longer want to work with my current advisor / I don't get along with my current advisor.**
+9. **I no longer want to work with my current advisor. Or: I don't get along with my current advisor.**
 
- Just like the previous question, this is ok. Be honest and discuss this with your advisor, and don't feel bad about finding different professors to work with.
+ Just like the previous question, this is OK. Be honest and discuss this with your advisor, and don't feel bad about finding different professors to work with.
