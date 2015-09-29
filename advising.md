@@ -30,6 +30,7 @@ There's a wide variance: people work at different paces, so don't worry if you m
 If you're not sure yet which broad research area in CSE you want to pursue, here are a few ways to find out what's available:
 
 * Go to colloquium: most weeks, a world expert will give a talk about some different area of computer science.
+* Take classes in areas you're curious about.
 * Show up to the poster sessions and talks for the department's [industry affiliates][affiliates] days, which usually happen in October. Other students will be showing off their current projects, so it's a perfect time to ask them about what's going on in their groups.
 * Watch the talks at the [CSE Symposium][cses], a new tradition where students give more polished talks on their work.
 * Register for the department's seminars, colloquially known as "five nineties." Most of these involve students leading informal discussions about papers each week. Sign up to present a paper on a topic that's new to you.
@@ -59,6 +60,7 @@ If you have a (tentative) advisor, it's time to get started on your research. Yo
 * Read closely and often. Learning to read papers from your area with a critical eye can be crucial to doing great work yourself.
 * Start by working with a senior grad student. Your advisor can help you find a research project that's underway that you can help with. Pairing up with someone more experienced is a great way to learn the ropes before you launch your own research agenda. Even doing some "manual labor" for another student's project can be a great way to gain momentum.
 * Choose work you're excited about. Doing great research when you don't care about it is next to impossible. Be sure to communicate openly with your advisor about what you like (and don't) about research---advisors can't know you're unhappy if you toil in silence.
+* If the topic is new to you, ask your advisor for background resources---textbooks, course notes, etc.---that can help you catch up.
 
 
 ## What You Can Expect from Your Advisor
