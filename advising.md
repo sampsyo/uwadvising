@@ -122,7 +122,7 @@ A major role of faculty members is to mentor students. From the faculty side, me
 * Utilize his or her professional network during job searches
 * Nominate you for fellowships and awards you deserve
 
-In an ideal world, every student's advisor would be his or her mentor. However, this may not always be possible or beneficial. In the case that your research advisor is not mentoring you well, it would be beneficial for you to discuss this with your advisor, or to seek advice from another faculty member such as Elise (elised@cs) or Anna (karlin@cs).
+In an ideal world, every student's advisor would be his or her mentor. However, this may not always be possible or beneficial. In the case that your research advisor is not mentoring you well, talk about it with your advisor or seek advice from another faculty member, the Grad Program Coordinator ([Anna][]), or [Elise][].
 
 ### What You Can Expect from Your Advisor: Top Five
 
