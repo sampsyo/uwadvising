@@ -221,9 +221,13 @@ These solutions apply to almost any issue you could have during your grad studen
 
  Being repetitive, have you talked to your advisor about this yet? You should be having regular conversations about your progress and your advisor should express his or her expectations to you clearly. If you aren't sure, then talk to them!
 
-5. **It seems like everyone else is making a lot more progress than me.**
+5. **It seems like everyone else is making more progress than I am.**
 
- This is a very common sentiment in newer grad students, although it is often not well founded. Again, grad school is tough. Things will not always go as planned, and often, projects will take a lot of work to make only moderate progress. This is normal. Don't compare yourself to other grad students. Instead, think about how you are investing your time and effort to be as effective as possible. How are you doing today versus several months ago, or last year? Are you satisfied with the way you are doing your research and the successes you are acheiving? When you are not making the amount of progress you want, it is important to recognize that sometimes this is caused by a problem being very challenging or your advisors expectations being very high, but sometimes, you simply are not working hard enough. You should address this with you advisor.
+ This is a common feeling among newer grad students, and it is often unfounded. Again, grad school is tough. Things will not always go as planned, and, often, projects will take a lot of work to make only moderate progress. This is normal.
+
+ Resist the temptation to compare yourself to other grad students. Instead, think about how you are investing your time and effort to be as effective as possible. How are you doing today versus several months ago, or last year? Are you satisfied with the way you are doing your research and the successes you are acheiving?
+
+ It can be hard to disambiguate whether you're just not working hard enough, the problem you're working on is especially hard, or your advisor's expectations are too high. It's especially hard to tell when you're in the middle of negative feelings about your performance. Talk to your advisor and confer with other mentors and friends in the department.
 
 6. **My advisor is never available. How can I get them to make time for me?**
 
